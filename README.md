@@ -1,1 +1,1 @@
-# P22-Fairy-and-Star
+# Fairy-and-Star-class-22
